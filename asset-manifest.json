@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Techflix-Store/static/css/main.7c5510ff.css",
+    "main.js": "/Techflix-Store/static/js/main.7f2fd02e.js",
+    "static/js/453.f2fbabf3.chunk.js": "/Techflix-Store/static/js/453.f2fbabf3.chunk.js",
+    "index.html": "/Techflix-Store/index.html",
+    "main.7c5510ff.css.map": "/Techflix-Store/static/css/main.7c5510ff.css.map",
+    "main.7f2fd02e.js.map": "/Techflix-Store/static/js/main.7f2fd02e.js.map",
+    "453.f2fbabf3.chunk.js.map": "/Techflix-Store/static/js/453.f2fbabf3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c5510ff.css",
+    "static/js/main.7f2fd02e.js"
+  ]
+}
